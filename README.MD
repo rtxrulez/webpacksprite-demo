@@ -1,5 +1,7 @@
 # Webpack SVG Store plugin demo
 
+Original https://github.com/andrewjamesford/webpacksvgstoredemo
+
 1. Install libraries from the root of the project
 ```
 npm install
@@ -8,7 +10,7 @@ npm install
 ```
 webpack
 ```
-3. Run http server 
+3. Run http server
 ```
 cd wwwroot
 http-server
